@@ -19,7 +19,7 @@ const Navbar = () => {
       </div>
       
       <ul className={`nav-links ${isOpen ? 'active' : ''}`}>
-      <li><Link to="/">Home</Link></li>
+      <li><Link to="/jayanga-pradeepa">Home</Link></li>
         <li><Link to="/experiences">Experience</Link></li>
         <li><Link to="/projects">Projects</Link></li>
         <li><Link to="/education">Education</Link></li>
