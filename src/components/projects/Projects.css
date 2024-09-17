@@ -1,0 +1,43 @@
+.projects {
+    width: 80%;
+    height: 80%;
+  }
+  .projects-topic{
+    text-align: left;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: "Poppins";
+    color: #000000;
+}
+.project-name{
+    text-align: left;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Poppins";
+    color: #0c54bf;
+}
+.time-period{
+    text-align: left;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Poppins";
+    color: #000000;
+}
+.des-div{
+    
+    text-align: left;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Poppins";
+    color: #000000;
+}
+.ol-div{
+    margin-left: 25px;
+}
+.skill-text{
+    text-align: left;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Poppins";
+    color: #000000;
+}

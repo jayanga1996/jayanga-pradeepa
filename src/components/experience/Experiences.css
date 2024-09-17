@@ -1,0 +1,49 @@
+.expirence {
+    width: 80%;
+    height: 80%;
+  }
+
+.expirence-topic{
+    text-align: left;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: "Poppins";
+    color: #000000;
+}
+.company-div{
+    width: 100%;
+    border-radius: 8px;
+    padding: 10px;
+    /* border: 2px solid rgb(37, 78, 243); */
+    background-color: #bfe3f9;
+    margin: 0 0 15px 0;
+}
+.company-name{
+    text-align: left;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Poppins";
+    color: #0c54bf;
+}
+.position{
+    text-align: left;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Poppins";
+    color: #000000;
+}
+.time-period{
+    text-align: left;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Poppins";
+    color: #000000;
+}
+.ul-div{
+    margin-left: 15px;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Poppins";
+    color: #000000;
+}

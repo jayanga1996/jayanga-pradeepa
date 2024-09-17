@@ -57,7 +57,7 @@
   }
 @media (max-width: 768px) {
   .homepage {
-    width: 100%;
+    width: 100% !important;
     height: 80%;
     flex-direction: column-reverse;
   }
