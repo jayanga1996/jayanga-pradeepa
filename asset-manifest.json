@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/jayanga-pradeepa/static/css/main.72b5f05c.css",
-    "main.js": "/jayanga-pradeepa/static/js/main.29565c44.js",
+    "main.css": "/jayanga-pradeepa/static/css/main.04f00acf.css",
+    "main.js": "/jayanga-pradeepa/static/js/main.f8cb6df3.js",
     "static/js/453.eadf6fde.chunk.js": "/jayanga-pradeepa/static/js/453.eadf6fde.chunk.js",
+    "static/media/Devananda.png": "/jayanga-pradeepa/static/media/Devananda.437e9a7af33baee238fe.png",
     "static/media/myimg.jpg": "/jayanga-pradeepa/static/media/myimg.0f51cc1ced9ea8f05378.jpg",
+    "static/media/LOGO_OF_RUHUNA.jpg": "/jayanga-pradeepa/static/media/LOGO_OF_RUHUNA.5ad1d2e314bf919589e0.jpg",
     "index.html": "/jayanga-pradeepa/index.html",
-    "main.72b5f05c.css.map": "/jayanga-pradeepa/static/css/main.72b5f05c.css.map",
-    "main.29565c44.js.map": "/jayanga-pradeepa/static/js/main.29565c44.js.map",
+    "main.04f00acf.css.map": "/jayanga-pradeepa/static/css/main.04f00acf.css.map",
+    "main.f8cb6df3.js.map": "/jayanga-pradeepa/static/js/main.f8cb6df3.js.map",
     "453.eadf6fde.chunk.js.map": "/jayanga-pradeepa/static/js/453.eadf6fde.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72b5f05c.css",
-    "static/js/main.29565c44.js"
+    "static/css/main.04f00acf.css",
+    "static/js/main.f8cb6df3.js"
   ]
 }
