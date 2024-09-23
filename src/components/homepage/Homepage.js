@@ -3,6 +3,7 @@ import "./Homepage.css";
 import myimg from "../../assets/myimg.jpg";
 const Homepage = () => {
   return (
+    <div className="homepage-main">
     <div className="homepage">
       <div className="name-div">
         <div className="name-text">
@@ -21,6 +22,7 @@ const Homepage = () => {
       <div className="img-div">
         <img src={myimg} width={300} className="myimg" />
       </div>
+    </div>
     </div>
   );
 };
